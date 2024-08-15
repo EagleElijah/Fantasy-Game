@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1710867616 source:d:\illia's c++\repositories\4-fantasy-illia-k\fantasyrpg\fantasyrpg\fantasyrpg.cpp
+	<iostream>
+	"FantasyRPG.h"
+
+1710867285 d:\illia's c++\repositories\4-fantasy-illia-k\fantasyrpg\fantasyrpg\fantasyrpg.h
+
+1710879542 source:d:\illia's c++\4-fantasy-illia-k\fantasyrpg\fantasyrpg\fantasyrpg.cpp
+	<iostream>
+	"FantasyRPG.h"
+
+1710879324 d:\illia's c++\4-fantasy-illia-k\fantasyrpg\fantasyrpg\fantasyrpg.h
+
+1710879542 source:d:\illia's c++\4-fantasy-illia-k\fantasyrpg\fantasyrpg\main.cpp
+	<iostream>
+	"FantasyRPG.h"
+
+1711685153 source:d:\illia's c++\4-fantasy-illia-k\fantasyrpg\fantasyrpg.cpp
+	"FantasyRPG.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	<cstdlib>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<ctime>
+
+1711654356 d:\illia's c++\4-fantasy-illia-k\fantasyrpg\fantasyrpg.h
+	<string>
+
+1711654357 source:d:\illia's c++\4-fantasy-illia-k\fantasyrpg\main.cpp
+	<iostream>
+	"FantasyRPG.h"
+	<cstdlib>
+	<ctime>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<windows.h>
+
+1711040876 source:d:\illia's c++\repositories\fantasyrpg\fantasyrpg.cpp
+	<iostream>
+	"FantasyRPG.h"
+
+1711040865 d:\illia's c++\repositories\fantasyrpg\fantasyrpg.h
+
+1711040935 source:d:\illia's c++\repositories\fantasyrpg\main.cpp
+	<iostream>
+	"FantasyRPG.h"
+	<bits/stdc++.h>
+
+1711652252 source:d:\illia's c++\repositories\4-fantasy-illia-k\fantasyrpg\fantasyrpg.cpp
+	"FantasyRPG.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<stdlib.h>
+	<cstdlib>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<ctime>
+
+1711647877 d:\illia's c++\repositories\4-fantasy-illia-k\fantasyrpg\fantasyrpg.h
+	<string>
+
+1711647877 source:d:\illia's c++\repositories\4-fantasy-illia-k\fantasyrpg\main.cpp
+	<iostream>
+	"FantasyRPG.h"
+	<cstdlib>
+	<ctime>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<windows.h>
+
